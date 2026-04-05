@@ -1,3 +1,8 @@
 [
-    {}
+    {},
+    {
+        "hardware_id": "cc3d56d7b5cfef94b52bb9faa6d8fe93",
+        "reason": "Revoked by Admin",
+        "date": "2026-04-05"
+    }
 ]
