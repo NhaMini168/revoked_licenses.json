@@ -1,6 +1,6 @@
 {
-  "version": "2.0.44",
-  "min_version": "2.0.43",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.44/2.0.44.Bulk.Downloader.Pro.2026.zip",
-  "changelog": "🚀 NEW UPDATE V2.0.44:<br>- Added Multi-Selection support for Resume, Pause, Stop, and Restart<br>- Added 10-minute auto-timeout for Telegram Star invoices<br>- Fixed random crashes during high-concurrency downloads<br>- Improved TikTok link detection and cookie handling<br>- Implemented mandatory version blocking for security"
+  "version": "2.0.45",
+  "min_version": "2.0.44",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.45/2.0.45.Bulk.Downloader.Pro.2026.zip",
+  "changelog": "🚀 CRITICAL UPDATE V2.0.45:<br>- Fixed 'Failed to load Python DLL' error during updates<br>- Improved Updater: Now supports nested folders inside ZIPs<br>- Enhanced ZIP verification to prevent corrupted installs<br>- Improved Context Menu multi-selection stability<br>- Optimized temporary file cleanup after installation"
 }
