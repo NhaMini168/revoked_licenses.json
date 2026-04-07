@@ -1,6 +1,6 @@
 {
-  "version": "2.0.45",
-  "min_version": "2.0.44",
+  "version": "2.0.43",
+  "min_version": "2.0.42",
   "download_url": "your_link_here",
   "changelog": "Critical security update."
 }
