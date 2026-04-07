@@ -1,6 +1,6 @@
 {
-  "version": "2.0.45",
-  "min_version": "2.0.44",
+  "version": "2.0.43",
+  "min_version": "2.0.42",
   "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.43/2.0.43.Bulk.Downloader.Pro.2026.zip",
   "changelog": "🚀 NEW UPDATE AVAILABLE:<br>- Fixed random crashes during long downloads<br>- Added 'Resume' button in context menu<br>- Added version block system<br>- Improved TikTok link detection"
 }
