@@ -1,6 +1,6 @@
 {
-  "version": "2.0.43",
-  "min_version": "2.0.42",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.43/2.0.43.Bulk.Downloader.Pro.2026.zip",
-  "changelog": "🚀 NEW UPDATE AVAILABLE:<br>- Fixed random crashes during long downloads<br>- Added 'Resume' button in context menu<br>- Added version block system<br>- Improved TikTok link detection"
+  "version": "2.0.44",
+  "min_version": "2.0.43",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.44/2.0.44.Bulk.Downloader.Pro.2026.zip",
+  "changelog": "🚀 NEW UPDATE V2.0.44:<br>- Added Multi-Selection support for Resume, Pause, Stop, and Restart<br>- Added 10-minute auto-timeout for Telegram Star invoices<br>- Fixed random crashes during high-concurrency downloads<br>- Improved TikTok link detection and cookie handling<br>- Implemented mandatory version blocking for security"
 }
