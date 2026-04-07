@@ -1,6 +1,6 @@
 {
-  "version": "2.0.45",
-  "min_version": "2.0.44",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.45/2.0.45.Bulk.Downloader.Pro.2026.zip",
-  "changelog": "🚀 CRITICAL UPDATE V2.0.45:<br>- Fixed 'Failed to load Python DLL' error during updates<br>- Improved Updater: Now supports nested folders inside ZIPs<br>- Enhanced ZIP verification to prevent corrupted installs<br>- Improved Context Menu multi-selection stability<br>- Optimized temporary file cleanup after installation"
+  "version": "2.0.46",
+  "min_version": "2.0.45",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.46/2.0.46.Bulk.Downloader.Pro.2026.zip",
+  "changelog": "🚀 STABILITY UPDATE V2.0.46:<br>- FIXED: Context menu and Resume actions failing after restarting the app.<br>- FIXED: Task indexing issues when removing tasks from the middle of the list.<br>- ADDED: Master Re-indexing Engine to sync UI with internal database.<br>- IMPROVED: Multi-selection reliability for large task lists."
 }
