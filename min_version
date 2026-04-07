@@ -1,6 +1,6 @@
 {
-  "version": "2.0.49",
-  "min_version": "2.0.48",
+  "version": "2.0.47",
+  "min_version": "2.0.46",
   "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.47/Bulk.Downloader.Pro.2026.exe",
   "changelog": "🚀 NEW UPDATE V2.0.47:<br>- 🛠 FIXED: Switched to Direct EXE Update (No unzipping required)<br>- 📈 FIXED: Update Progress Bar now correctly shows download speed<br>- 📦 IMPROVED: Better Onefile compatibility for Icons and Assets<br>- ⚡ PERFORMANCE: Optimized Startup and License verification speed<br>- 🛡 SECURITY: Reinforced Version Blocking for older builds"
 }
