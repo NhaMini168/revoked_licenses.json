@@ -1,6 +1,6 @@
 {
-  "version": "2.0.48",
-  "min_version": "2.0.46",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.48/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.48:<br>- 🛠 FIXED: Auto-shutdown PC feature now triggers correctly after all downloads complete.<br>- ⚡ STABILITY: General background logic improvements."
+  "version": "2.0.50",
+  "min_version": "2.0.48",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.50/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.50:<br>- 📦 SPLIT: Downloader (.exe) and Telegram bots run separately (bots on VPS).<br>- 🔄 ADMIN /reset: No new key — client opens app online once.<br>- 📘 Facebook: Direct video URLs only; cleaner captions (no reaction counts).<br>- 📋 Queue: Add to queue; auto-download when Start All is running.<br>- 📂 Profiles: All posts up to 10,000 videos.<br>- 💳 USDT: Admin confirm sends license to customer reliably.<br>- ⚡ Stability and license sync improvements."
 }
