@@ -1,6 +1,6 @@
 {
-  "version": "2.0.50",
-  "min_version": "2.0.48",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.50/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.50:<br>- 📦 SPLIT: Downloader (.exe) and Telegram bots run separately (bots on VPS).<br>- 🔄 ADMIN /reset: No new key — client opens app online once.<br>- 📘 Facebook: Direct video URLs only; cleaner captions (no reaction counts).<br>- 📋 Queue: Add to queue; auto-download when Start All is running.<br>- 📂 Profiles: All posts up to 10,000 videos.<br>- 💳 USDT: Admin confirm sends license to customer reliably.<br>- ⚡ Stability and license sync improvements."
+  "version": "2.0.51",
+  "min_version": "2.0.50",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.51/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.51:\n⚙️ SHOP: /download, /faq, /cancel clears pending KHQR & USDT orders.\n👤 ADMIN: customer profiles, Open chat links, /pending /deliver /balance /sales.\n🔄 GITHUB: /reset & /extend sync license expiry to client apps.\n🌐 HOSTING: optional Namecheap webhooks + VPS run-bots (do not run both).\n📘 Downloader v2.0.51 — build with release-app-v51.bat, upload EXE to Release v2.0.51."
 }
