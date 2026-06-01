@@ -1,6 +1,6 @@
 {
-  "version": "2.0.51",
-  "min_version": "2.0.50",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.51/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.51:\n⚙️ SHOP: /download, /faq, /cancel clears pending KHQR & USDT orders.\n👤 ADMIN: customer profiles, Open chat links, /pending /deliver /balance /sales.\n🔄 GITHUB: /reset & /extend sync license expiry to client apps.\n🌐 HOSTING: optional Namecheap webhooks + VPS run-bots (do not run both).\n📘 Downloader v2.0.51 — build with release-app-v51.bat, upload EXE to Release v2.0.51."
+  "version": "2.0.52",
+  "min_version": "2.0.51",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.52/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.52:\n🌟 STARS: unpaid invoice + plan buttons clear after 5 minutes.\n🇰🇭 BOT: Cambodia time (UTC+7) for orders and /online status.\n📍 APP: launch tracks IP + license; no license → shop bot @BulkDownloader_licensebot.\n⚙️ SHOP: /download, /faq, /cancel — 5 min timeout on KHQR, USDT & Stars.\n👤 ADMIN: /pending /deliver /balance /sales — /online uses Cambodia time.\n🔄 /reset = expiry from today (same key). /revoke = block license.\n📘 Downloader v2.0.52 — build with release-app-v52.bat, upload EXE to Release v2.0.52."
 }
