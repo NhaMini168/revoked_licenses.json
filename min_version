@@ -1,6 +1,6 @@
 {
-  "version": "2.0.52",
-  "min_version": "2.0.51",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.52/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.52:\n🌟 STARS: unpaid invoice + plan buttons clear after 5 minutes.\n🇰🇭 BOT: Cambodia time (UTC+7) for orders and /online status.\n📍 APP: launch tracks IP + license; no license → shop bot @BulkDownloader_licensebot.\n⚙️ SHOP: /download, /faq, /cancel — 5 min timeout on KHQR, USDT & Stars.\n👤 ADMIN: /pending /deliver /balance /sales — /online uses Cambodia time.\n🔄 /reset = expiry from today (same key). /revoke = block license.\n📘 Downloader v2.0.52 — build with release-app-v52.bat, upload EXE to Release v2.0.52."
+  "version": "2.0.53",
+  "min_version": "2.0.52",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.53/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.53:\n🔑 ADMIN: /license HWID 7d — type custom days, months, date, or lifetime.\n🔄 LICENSE: /revoke /unrevoke /reset /extend sync GitHub server; valid through expiry day.\n🎟️ SHOP: event coupons — /coupon CODE then HWID and plan.\n📍 APP: launch alert to admin Telegram (rebuild EXE).\n📘 Downloader v2.0.53 — release-app-v53.bat, upload EXE to Release v2.0.53."
 }
