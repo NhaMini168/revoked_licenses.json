@@ -1,6 +1,6 @@
 {
-  "version": "2.0.53",
-  "min_version": "2.0.52",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.53/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.53:\n🔑 ADMIN: /license HWID 7d — type custom days, months, date, or lifetime.\n🔄 LICENSE: /revoke /unrevoke /reset /extend sync GitHub server; valid through expiry day.\n🎟️ SHOP: event coupons — /coupon CODE then HWID and plan.\n📍 APP: launch alert to admin Telegram (rebuild EXE).\n📘 Downloader v2.0.53 — release-app-v53.bat, upload EXE to Release v2.0.53."
+  "version": "2.0.54",
+  "min_version": "2.0.53",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.54/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.54:\n🟢 /online: real user count via VPS heartbeat API.\n🔑 LICENSE: admin reset stays valid after restart (GitHub-first).\n🎟️ SHOP: menu buttons + starter coupon (7d trial, new users).\n👤 ADMIN: tap buttons — /license, coupons, /online.\n📘 v2.0.54 — release-app-v54.bat + open VPS port 8765."
 }
