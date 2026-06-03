@@ -1,6 +1,6 @@
 {
-  "version": "2.0.55",
-  "min_version": "2.0.53",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.55/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.55:\n🔑 LICENSE: fix false \"Cannot verify revocation\" after update (cache + offline valid key).\n📘 Rebuild with build-exe.bat and replace customer EXE."
+  "version": "2.0.56",
+  "min_version": "2.0.55",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.56/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.56:\n🔑 LICENSE: /reset removed — use /add or /extend + send new key.\n✅ /add · /extend · /revoke · /unrevoke only for license changes."
 }
