@@ -1,6 +1,6 @@
 {
-  "version": "2.0.56",
-  "min_version": "2.0.55",
-  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.56/Bulk.Downloader.Pro.2026.exe",
-  "changelog": "🚀 NEW UPDATE V2.0.56:\n🔑 LICENSE: /reset removed — use /add or /extend + send new key.\n✅ /add · /extend · /revoke · /unrevoke only for license changes."
+  "version": "2.0.59",
+  "min_version": "2.0.58",
+  "download_url": "https://github.com/NhaMini168/revoked_licenses.json/releases/download/v2.0.59/Bulk.Downloader.Pro.2026.exe",
+  "changelog": "🚀 NEW UPDATE V2.0.59:\n🔑 LICENSE: shop renew / extend accepts the latest key even when cloud sync is briefly behind.\n🔒 Only the newest key per HWID stays valid (older keys rejected after admin /synckey).\n🛡️ Splash & errors no longer show server/GitHub names.\n📘 Upload bots.py to VPS, run /synckey HWID after renew, attach EXE to GitHub release v2.0.59."
 }
